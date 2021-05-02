@@ -1,0 +1,21 @@
+
+.main{
+    width: 70%;
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.firstDiv{
+    width: 26%;
+    border: 1px solid red;
+    margin-top: 2rem;
+}
+.img{
+    width: 100%;
+}
+.h2,h3{
+    
+}
