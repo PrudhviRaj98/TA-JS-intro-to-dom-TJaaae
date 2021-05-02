@@ -4,9 +4,11 @@ Write a function named `createInputElm` that accepts two parameter (label and `t
 default value to be "text" and return the input element inside label. (create it using `createElement`)
 
 */
-ee
-// Your code goes here
 
+// Your code goes here
+function createInputElm(label , type = "text"){
+  return 
+}
 // TEST
 createInputElm('Your name'); //<label>Your name: <input type="text"></label>
 createInputElm('Your age', 'number'); //<label>Your age: <input type="number"></label>
